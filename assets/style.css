@@ -1,8 +1,8 @@
 body {
-    /* background-color: aliceblue; */
+     background-color:  #BDC4A7;
 }
 .corps1 {
-    width: 800px;
+    width: 900px;
     height: 600px;
     border-radius: 5%;
     display: flex;
@@ -11,20 +11,22 @@ body {
     /* background-color: #3F7CAC; */
 }
 .section1 {
-   width: 250px;
-   height: 700px;
+   width: 350px;
+   height: 600px;
    background-color: #3F7CAC;
    /* border-radius: 5%; */
 }
 .section2 {
     width: 550px;
-    height: 700px;
+    height: 600px;
     background-color: #95AFBA;
     display: flex;
     flex-direction: column;
 }
 .texte1 {
-    margin-left: 190px;
+    margin-left: 130px;
+    margin-top: 100px;
+    color: white;
 }
 .input-text {
     background-color: #BDC4A7;
@@ -54,23 +56,22 @@ body {
     border-radius: 10%;
 }
 .section6 {
-    width: 500px;
+    width: 300px;
     height: 200px;
     /* background-color: bisque; */
     margin: auto;
 }
 .section7 {
-    margin: auto;
+    margin-left: 25px;
 }
 .titre1 {
-    margin-top: 200px;
+    margin-top: 20px;
     margin-left: 30px;
     color: white;
 }
 .images1 {
     width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background:#BDC4A7;
+    height: 150px;
+   
     margin: auto;
 }

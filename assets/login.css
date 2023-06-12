@@ -1,0 +1,25 @@
+body {
+    background-color:  #BDC4A7;
+}
+.section1 {
+    width: 300px;
+    height: 400px;
+    background-color: #3F7CAC;;
+    margin: auto;
+    border-radius: 50px;
+
+}
+.form-group {
+    margin-left: 70px;
+    /* margin-top: 20px; */
+     padding-top: 10px; 
+}
+input {
+    margin: 10px;
+    width: 4cm;
+    height: 0.5cm;
+    background-color:  #BDC4A7;
+}
+label {
+    margin: auto;
+}
